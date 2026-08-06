@@ -72,27 +72,8 @@
 
 ---
 
-## 📊 Активность организации
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xopilot-AI-NN&theme=github-dark)](https://github.com/Xopilot-AI-NN)
-
----
-
-## 📈 Статистика
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Xopilot-AI-NN&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Xopilot-AI-NN&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
 ## 🏆 Достижения
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Xopilot-AI-NN&theme=darkhub&column=6"/>
-</p>
 
 ---
 
