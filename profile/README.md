@@ -153,4 +153,3 @@
 **Xopilot © 2024–Present**
 
 </div>
-```
